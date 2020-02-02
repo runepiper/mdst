@@ -1,3 +1,4 @@
+[![Actions](https://github.com/runepiper/mdst/workflows/run-tests/badge.svg)](https://github.com/runepiper/mdst/actions)
 [![License](https://img.shields.io/github/license/runepiper/mdst.svg)](https://github.com/runepiper/mdst/blob/master/LICENSE)
 
 # MDST
